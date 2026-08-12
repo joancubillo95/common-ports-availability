@@ -56,7 +56,7 @@ You now have a minimal .NET application.
 
 ### 4. Add the code
 
-Replace the generated `Program.cs` with the implementation in this repository.
+Replace the generated `Program.cs` with the implementation in this repository. Or don't, and  in step 5 you will get the famous Hello, World! printed in your console.
 
 ### 5. Run it
 
