@@ -97,3 +97,7 @@ No external services.
 No unnecessary dependencies.
 
 Just .NET, a small amount of code, and a reason to run it.
+
+
+## Windows SmartScreen
+Because this is a small open-source project and the executable is not code-signed, Windows may display a security warning when downloading or running the release. This is expected for unsigned executables.
