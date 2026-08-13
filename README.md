@@ -19,7 +19,11 @@ cd common-ports-availability
 
 ### 2. Set up .NET with Mise
 
-Install [Mise](https://mise.jdx.dev/) if you don't already have it.
+Install [Mise](https://mise.jdx.dev/) if you don't already have it. Here is the powershell command for windows:
+
+```powershell
+winget install jdx.mise
+```
 
 Then install and activate the required .NET version:
 
