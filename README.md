@@ -21,6 +21,11 @@ cd common-ports-availability
 
 Install [Mise](https://mise.jdx.dev/) if you don't already have it.
 
+Or directly run
+```powershell
+winget install jdx.mise
+```
+
 Then install and activate the required .NET version:
 
 ```powershell
